@@ -5,6 +5,8 @@ A Data Analytics Portfolio Project
 The final analysis and recommendations are presented in an interactive Tableau dashboard.
 
 ➡️ View My Live Tableau Dashboard Here(https://public.tableau.com/app/profile/deepesh.singh7186/viz/Dashboard_17573386944930/E-commerceCustomerSegmentationAnalysis?publish=yes&showOnboarding=true)
+<img width="1911" height="970" alt="image" src="https://github.com/user-attachments/assets/e88def48-bdf2-42d2-9e59-8ef8b013bc30" />
+
 
 🎯 Project Goal
 The primary goal of this project was to perform a complete, end-to-end analysis of a real-world e-commerce dataset. The objective was to use data-driven techniques to identify distinct customer segments based on their purchasing behavior, and then translate these findings into actionable marketing strategies.
