@@ -1,5 +1,6 @@
 E-commerce Customer Segmentation & Analysis
-A Data Analytics Portfolio Project by Deepesh Kumar Singh
+A Data Analytics Portfolio Project
+
 🚀 Live Interactive Dashboard
 The final analysis and recommendations are presented in an interactive Tableau dashboard.
 
